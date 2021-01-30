@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"C:/repos/Unreal/BuildingEscape/Building_Escape/.vscode": true,
+		"C:/repos/Unreal/BuildingEscape/Building_Escape/Content": true,
+		"C:/repos/Unreal/BuildingEscape/Building_Escape/Intermediate": true
+	},
+	"C_Cpp.errorSquiggles": "Enabled"
+}
